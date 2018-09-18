@@ -1,6 +1,6 @@
 token=NDkxMjMyNzQ1OTczMDg4MjU3.DoFbyQ.ygNkpxxJaKS07IUsv2UHjYx3mOw
 owner=460813839051784202
-prefix=22
-game=Type 22play
+prefix=2
+game=Type 2play
 stayinchannel=true
 songinstatus=true
