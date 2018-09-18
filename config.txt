@@ -1,6 +1,6 @@
-token=NDkxMjMyNzQ1OTczMDg4MjU3.DoFbyQ.ygNkpxxJaKS07IUsv2UHjYx3mOw
+token=NDkxNTYzNjU1ODUxNDA5NDA4.DoJ6JQ.O1NB8GRJMWGf4XnrbBjd8r424m8
 owner=460813839051784202
-prefix=2
-game=Type 2play
+prefix=5
+game=Type 5play
 stayinchannel=true
 songinstatus=true
